@@ -12,6 +12,8 @@
 
 📌 - O projeto também está disponível no link abaixo da Vercel 😊
 
+projeto-aluroni-ten.vercel.app
+
 ### Projeto Aluroni
 
 
